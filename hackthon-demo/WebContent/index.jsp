@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Hackathon</title>
 </head>
 <body>
-<h1><% out.println("Hello Shuja!"); %></h1>
+<h1><% out.println("Hello Welcome Shuja!"); %></h1>
 </body>
 </html>
